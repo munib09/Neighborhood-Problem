@@ -1,0 +1,6 @@
+DATA COLLECTION
+
+A dataset to be created with data containing latitude and longitude of 10 main areas of Dubai where cafetaria businesss is at peak.
+Using Foursquare API we find out different categories of Cafetarias in these regions. The Data is analyzed and category trend is
+mapped with different areas.A final conclusion is derived about what type of cafetarias have a business advantage in which part 
+of Dubai.
