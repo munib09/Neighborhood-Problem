@@ -12,9 +12,6 @@ accepted by the public, citizens, residents and tourists.There are a lot of plac
 grow rapidly and result in profitable returns.In this report we try to find out Top places where a new cafetaria business 
 can be setup based on areas where cafetarias find maximum customers.
 
-DATA COLLECTION
-
-A dataset to be created with data containing latitude and longitude of 10 main areas of Dubai where cafetaria businesss is at peak.Using Foursquare API we find out different categories of Cafetarias in these regions. The Data is analyzed and category trend is mapped with different areas.A final conclusion is derived about what type of cafetarias have a business advantage in which part of Dubai.
 
 
 
