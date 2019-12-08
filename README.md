@@ -1,1 +1,1 @@
-# Top Places to start a restaurant or cafetaria in Dubai
+# Top Places to start an Indian restaurant in Dubai
