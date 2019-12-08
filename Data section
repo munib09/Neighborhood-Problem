@@ -1,7 +1,7 @@
 DATA COLLECTION
-
-A dataset to be created with data containing latitude and longitude of 10 main areas of Dubai where cafetaria businesss is at peak.
-Using Foursquare API we find out different categories of Cafetarias in these regions. The Data is analyzed and category trend is
-mapped with different areas.A final conclusion is derived about what type of cafetarias have a business advantage in which part 
-of Dubai.The areas that will be considered for cafetaria business are Bur Dubai, Deira,International city,Academic city,Karama , 
-Internet city , Al Nahda, Knowledge Village, Jebel Ali and Qusais.
+	
+	A dataset to be created with data containing latitude and longitude of 10 main areas of Dubai where Indian Restaurant businesss is at peak.
+	Using Foursquare API we find out different categories of Indian Restaurants in these regions. The Data is analyzed and category trend is
+	mapped with different areas. A final conclusion is derived about what type of Indian Restaurants have a business advantage in which part 
+	of Dubai.The areas that will be considered for Indian Restaurant business are Bur Dubai, Deira,International city, Academic city,Karama , 
+	Internet city , Al Nahda, Knowledge Village, Jebel Ali and Qusais.
